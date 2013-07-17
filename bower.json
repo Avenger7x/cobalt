@@ -1,0 +1,17 @@
+{
+  "name": "cobalt",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "loader": "alexeyraspopov/loader",
+    "observer": "alexeyraspopov/observer#~1.0.2",
+    "watcher": "alexeyraspopov/watcher#~0.5.1"
+  }
+}
