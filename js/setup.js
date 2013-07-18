@@ -1,4 +1,4 @@
-var Slideshow = require('./slideshow.js');
+/*var Slideshow = require('./slideshow.js');
 
 var slideshow = new Slideshow(viewport);
 
@@ -14,4 +14,4 @@ document.onkeydown = function(event){
 			slideshow.next();
 			break;
 	}
-}
+}*/

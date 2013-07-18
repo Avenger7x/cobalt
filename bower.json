@@ -12,6 +12,7 @@
   "dependencies": {
     "loader": "alexeyraspopov/loader",
     "observer": "alexeyraspopov/observer#~1.0.2",
-    "watcher": "alexeyraspopov/watcher#~0.5.1"
+    "watcher": "alexeyraspopov/watcher#~0.5.1",
+    "slideshow": "alexeyraspopov/slideshow"
   }
 }
